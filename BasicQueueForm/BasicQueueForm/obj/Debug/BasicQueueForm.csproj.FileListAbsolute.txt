@@ -1,0 +1,12 @@
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.csprojAssemblyReference.cache
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.CashierWindowQueue.resources
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.Queueform.resources
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.Properties.Resources.resources
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.csproj.GenerateResource.cache
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.csproj.CoreCompileInputs.cache
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\bin\Debug\BasicQueueForm.exe.config
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\bin\Debug\BasicQueueForm.exe
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\bin\Debug\BasicQueueForm.pdb
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.exe
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.pdb
+C:\Users\PHILIP\source\repos\BasicQueueForm\BasicQueueForm\obj\Debug\BasicQueueForm.NowServingForm.resources
